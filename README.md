@@ -1,7 +1,6 @@
 Here's a complete, well-structured `README.md` template for your Workforce Management API project that you can copy and paste:
 
-```markdown
-# Workforce Management API 🚀
+Workforce Management API 🚀
 
 A Spring Boot application for managing employee tasks, priorities, and work history.
 
